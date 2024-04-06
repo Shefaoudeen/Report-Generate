@@ -1,0 +1,33 @@
+{
+  "name": "Shefaoudeen",
+  "designation": "Beat officer",
+  "beat": ["B1", "B2", "B3"],
+  "station": "Sulthanpet",
+  "date": "01-01-2004",
+  "time": "10:00:00",
+  "assignment": [
+    "Task 1 - to do something........",
+    "Task 2 - to do something.....",
+    "Task 3 - to do something.........."
+  ],
+  "officer_observation": [
+    "Task 1 - to do something........",
+    "Task 2 - to do something.....",
+    "Task 3 - to do something..........",
+    "Task 4 - to do something........"
+  ],
+
+  "patta_sign": ["12:00PM - Mr.A", "1:00PM - Mr.B", "3:00PM - Mr.c"],
+
+  "hotspot_check": ["12:00PM - SPOT A", "1:00PM - SPOT B", "3:00PM - SPOT C"],
+
+  "Vehicle_check": ["PY01AB0123", "PY0CD4567", "PY01EF8901"],
+
+  "patrol_observation": [
+    "something.......",
+    "something.......",
+    "something.......",
+    "something......."
+  ],
+  "image_loc": "./py_map.png"
+}
